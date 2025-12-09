@@ -1,4 +1,4 @@
-"use clients";
+"use client";
 import { projects } from "@/data/projects";
 import ProjectCard from "@/components/ProjectCard";
 import SectionTitle from "@/components/SectionTitle";
