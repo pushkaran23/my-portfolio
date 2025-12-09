@@ -1,3 +1,4 @@
+"use clients";
 import SectionTitle from "@/components/SectionTitle";
 import ContactForm from "@/components/ContactForm";
 
